@@ -15,7 +15,7 @@ Data was taken for a number of coffee crops in a number of famous
 countries in the field and the coffee quality was predicted. In the future,
 entrepreneurs in the field of coffee will be contacted, and the project
 will be presented and developed according to customer needs.
-P A G E 0 1 | I N T R O D U C T I O N
+
 # DESIGN
 By applying the dataset on machine learning models such as
 LogisticRegression, KNN, Decision Tree, Random Forest, Voting, and
