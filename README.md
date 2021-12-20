@@ -55,3 +55,5 @@ Imblearn to solve imbalance problem.
 
 
 # Communication 
+
+https://www.canva.com/design/DAEy4svsel4/i9aUsyWdXi51EhNHiqDUrA/edit 
